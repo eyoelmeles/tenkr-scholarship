@@ -1,0 +1,7 @@
+baseURL = 'https://eyoeltmichael.github.io/tenkr-scholarship/'
+languageCode = 'en-us'
+title = 'Learn.Earn'
+theme = 'flat'
+
+[params]
+    theme = 'light'
