@@ -1,6 +1,6 @@
 baseURL = 'https://eyoeltmichael.github.io/tenkr-scholarship/'
 languageCode = 'en-us'
-title = 'KnightMoves'
+title = 'Tenkr Scholarship'
 theme = 'flat'
 
 [params]
