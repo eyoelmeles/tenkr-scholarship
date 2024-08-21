@@ -8,7 +8,7 @@ tags = [
 ]
 categories = [
     "Scholarship",
-    "United Kingdom",
+    "New Zealand",
 ]
 +++
 
