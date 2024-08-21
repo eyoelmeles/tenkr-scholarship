@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on KnightMoves</title>
-    <link>http://localhost:1313/tenkr-scholarship/categories/</link>
-    <description>Recent content in Categories on KnightMoves</description>
+    <title>Categories on Tenkr Scholarship</title>
+    <link>https://eyoeltmichael.github.io/tenkr-scholarship/categories/</link>
+    <description>Recent content in Categories on Tenkr Scholarship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tenkr-scholarship/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eyoeltmichael.github.io/tenkr-scholarship/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Korea</title>
-      <link>http://localhost:1313/tenkr-scholarship/categories/korea/</link>
+      <link>https://eyoeltmichael.github.io/tenkr-scholarship/categories/korea/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tenkr-scholarship/categories/korea/</guid>
+      <guid>https://eyoeltmichael.github.io/tenkr-scholarship/categories/korea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scholarship</title>
-      <link>http://localhost:1313/tenkr-scholarship/categories/scholarship/</link>
+      <link>https://eyoeltmichael.github.io/tenkr-scholarship/categories/scholarship/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tenkr-scholarship/categories/scholarship/</guid>
+      <guid>https://eyoeltmichael.github.io/tenkr-scholarship/categories/scholarship/</guid>
       <description></description>
     </item>
     
