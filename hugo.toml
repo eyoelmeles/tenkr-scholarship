@@ -1,4 +1,4 @@
-baseURL = 'https://eyoelmeles.github.io/tenkr-scholarship//'
+baseURL = 'https://eyoelmeles.github.io/tenkr-scholarship/'
 languageCode = 'en-us'
 title = 'Tenkr Scholarship'
 theme = 'flat'

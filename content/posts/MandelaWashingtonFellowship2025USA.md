@@ -1,5 +1,5 @@
 +++
-title = 'MandelaWashingtonFellowship2025USA'
+title = 'Mandela Washington Fellowship 2025 USA'
 date = 2024-08-16T07:59:05+08:00
 draft = false
 +++
