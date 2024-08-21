@@ -74,7 +74,6 @@ Chevening gathers scholars and potential leaders from over 160 countries and ter
 * You have only one chance per year to submit your application and only one application is accepted. That is why your first submitted application will be considered final.
 * Your application must contain two reference letters. Make sure your referees are able to be contacted if needed. The British High Commission contacts and verifies the authenticity of the reference letters from your referees.
 
-Read [how to win a Chevening Scholarship 2025 | Complete Guide](https://scholarshipscorner.website/how-to-win-a-chevening-scholarship-uk/)
 
 ### Tips for Chevening Scholarship Reference Letters:
 The reference letters must answer the following questions:
