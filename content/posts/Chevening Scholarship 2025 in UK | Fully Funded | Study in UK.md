@@ -1,6 +1,6 @@
 +++
 author = "Eyoel T.Michael"
-title = "Chevening Scholarship 2025 in UK | Fully Funded | Study in UK by Scholarships Corner"
+title = "Chevening Scholarship 2025 in UK | Fully Funded | Study in UK"
 date = "2024-08-21T12:59:05+08:00"
 description = "Masters, PHD Programs"
 tags = [
